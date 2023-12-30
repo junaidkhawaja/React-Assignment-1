@@ -1,5 +1,6 @@
-# React + Vite
+# Simple Landing Page using React + Vite
 
+Please download the landing page files and don't forget to import the dependencies to run the project.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
