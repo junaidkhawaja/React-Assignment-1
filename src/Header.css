@@ -1,0 +1,25 @@
+.header {
+    padding: 20px 0px;
+}
+.logo-flex img {
+    filter: contrast(0);
+    max-width: 120px;
+    width: 100%;
+}
+.logo-flex img:hover {
+    filter:contrast(0.5);
+}
+.register {
+    background: #46a7ff;
+    text-align: center;
+    padding: 5px 15px;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 1px;
+    border: 0px solid #CCC;
+    font-weight: bold;
+    cursor: pointer;
+}
+.register:hover {
+    background: #0e64b1;
+}

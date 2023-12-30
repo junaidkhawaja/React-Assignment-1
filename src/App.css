@@ -1,0 +1,160 @@
+body {
+  margin:0;
+  padding: 0;
+}
+
+* {
+  font-family: 'Raleway', sans-serif;
+}
+h1,h2,h3,h4,h5,h6 {
+font-family: 'Bebas Neue', sans-serif;
+}
+
+.hero-section {
+  background-image: url('../assets/img/bg-masthead.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 30vh 0px;
+  text-align: center;
+  color: white;
+}
+.hero-section {}
+.hero-section h2 {
+  font-size: 2.7rem;
+  margin-bottom: 20px;
+}
+.hero-email {}
+.hero-email input {
+    width: 300px;
+    padding: 0px 10px;
+    height: 40px;
+    border-radius: 4px;
+    border: 0px solid #000;
+    margin-right: 5px;
+}
+.hero-email button {
+  background: #46a7ff;
+  text-align: center;
+  padding: 5px 15px;
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: 1px;
+  border: 0px solid #CCC;
+  font-weight: bold;
+  height: 40px;
+  border-radius: 5px;
+}
+.hero-email button:hover {
+  background: #0e64b1;
+}
+.three-cols {
+  background: #f2f2f2;
+  padding: 50px 0px;
+}
+.card-singular {}
+.card-singular img {
+  width: 96px;
+  margin: 0 auto 10px;
+  display: block;
+}
+.card-singular h4 {
+  text-align: center;
+}
+.card-singular p {
+  text-align: center;
+    color: #333;
+    font-size: 14px;
+}
+.text-area {
+  max-width: 600px;
+  text-align: left;
+  padding: 0px 10px;
+  margin: 0 auto;
+}
+.text-area h3 {}
+.text-area p {
+  text-align: left;
+}
+.image-text-row img {
+  width: 100%;
+}
+.nopadding {
+  padding: 0px !important;
+}
+
+.team-section {
+  text-align: center;
+  padding: 50px 0px;
+  background-color:#f2f2f2;
+}
+.team-section h2 {
+  text-align: center;
+    margin-bottom: 20px;
+}
+.team-card {
+
+}
+.team-card img {
+  width: 188px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 6px #000;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+.team-card h4 {}
+.team-card p {
+  font-size: 14px;
+  color: #333;
+  max-width: 250px;
+  margin: 0 auto;
+}
+
+
+.footer-section {
+  padding: 50px 0;
+}
+.links {}
+.links ul {
+  display: inline-block;
+  list-style: none;
+  padding: 0;
+}
+.links ul li {
+  float: left;
+  display: block;
+  padding: 0px 10px;
+}
+.links ul li a {
+  color: blue;
+  font-weight: bold;
+  font-size: 12px;
+}
+.links ul li a:hover {
+  color: red;
+}
+.copyright {
+  text-align: left;
+  font-size: 15px;
+  padding: 0px 10px;
+}
+.social-icons {}
+.social-icons ul {
+  list-style: none;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+.social-icons ul li {
+  float: left;
+  display: block;
+  padding: 0px 5px;
+}
+.social-icons ul li a {
+  display: block;
+}
+.social-icons ul li a img {
+  width: 32px;
+  margin-bottom: 10px;
+  display: block;
+}
